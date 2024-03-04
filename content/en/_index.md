@@ -1,20 +1,15 @@
 ---
-title: The Zen demo site
+title: Phippy's AI Friend
 date: 2022-08-03T20:48:20+02:00
 
 ---
 
-This is a demo site for the [Hugo zen theme](https://github.com/frjo/hugo-theme-zen) (GitHub).
+This is the companion website for the book Phippy's AI Friend, Story and Workshop for Kids and Parents. To follow along with the workshop, a print copy of the book is recommended, which comes in both an [English version](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6) and a [French version](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000) (more translations coming soon).
 
-Source code for [Zen demo site](https://github.com/frjo/zen-demo) (GitHub).
+## Workshop Instructions
 
-This is the theme I have built to have a good base for all my own Hugo projects. I normally extend it during new projects when I come up with fixes and solutions that I think will be generally useful.
+1. Download the PDF that contains the detailed instructions. You should open this in a new tab or window so you can have it handy.
 
-I am happy to see that other people also have found it useful.
+2. Download the Scratch template for the project. You will need to load this in the Scratch editor (this is also the first step in the PDF you just downloaded).
 
-## Styles
-
-What you see here is the base reset CSS plus the Zen styles. I fully expect most users of this theme will remove the Zen styles. They are a set of styles I happen to often use in my own projects.
-
-To make this theme look like anything you need to add your own custom styling to it. It is a **base** theme after all.
-
+3. Open the Scratch editor and follow the workshop. Once you complete the workshop you will be able to help Kimani to save Zee's birthday party!

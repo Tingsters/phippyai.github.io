@@ -1,8 +1,8 @@
 ---
-title: "Zen demo site"
-baseURL: "https://zen-demo.xdeb.org/"
+title: "Phippy's AI Friend"
+baseURL: "https://www.phippyai.com/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
-languageCode: "en-GB"
+languageCode: "en-US"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
@@ -10,8 +10,8 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Fredrik Jonsson"
-  url: "https://xdeb.org"
+  name: "Cassandra Chin"
+  url: "https://github.com/Tingsters"
 
 markup:
   goldmark:
@@ -57,10 +57,10 @@ languages:
   en:
     weight: 1
     languageName: "English"
-    languageCode: "en-GB"
+    languageCode: "en-US"
     contentDir: content/en
-  sv:
+  fr:
     weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
+    languageName: "Française"
+    languageCode: "fr"
+    contentDir: content/fr
