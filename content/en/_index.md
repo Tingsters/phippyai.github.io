@@ -10,6 +10,12 @@ This is the companion website for the book Phippy's AI Friend, Story and Worksho
 
 1. Download the PDF that contains the detailed instructions. You should open this in a new tab or window so you can have it handy.
 
+{{< button src="instructions/phippy-ai-workshop.pdf" newtab="true" text="Download Instructions" >}}
+
 2. Download the Scratch template for the project. You will need to load this in the Scratch editor (this is also the first step in the PDF you just downloaded).
 
+{{< button src="templates/phippy-ai-template.sb3" text="Download Template" >}}
+
 3. Open the Scratch editor and follow the workshop. Once you complete the workshop you will be able to help Kimani to save Zee's birthday party!
+
+{{< button src="https://scratch.phippyai.com/" newtab="true" text="Open Scratch" >}}
