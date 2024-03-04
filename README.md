@@ -1,17 +1,14 @@
-# Zen demo site
+# Phippy's AI Friend Book Website
 
-The zen theme for Hugo demo site.
+This is the book website for Phippy's AI Friend, Story and Workshop for Kids and Parents.
 
-* View the demo site: <https://zen-demo.xdeb.org>
-* Download theme at: <https://github.com/frjo/hugo-theme-zen>
+To go directly to the generated website, click here: <https://www.phippai.com/>
 
-Feel free to use this repo as a template if you want it as a quickstart for your site. Use the green "Use this template" button above.
+You can get a print copy of the book on Amazon in these languages:
+* English: <https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6>
+* French: <https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000>
 
-## Features
 
-* GitHub pages site.
-* Auto deployed on push via GitHub actions, see [workflow file](https://github.com/frjo/zen-demo/blob/main/.github/workflows/pages.yaml).
-* Zen theme loaded as a Go module (update with `hugo mod get -u`).
-* Multilingual
-* Search
-* Podcast
+## About this site
+
+It is generated with [Hugo](https://gohugo.io/) and uses the [Zen theme](https://zen-demo.xdeb.org).
