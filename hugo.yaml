@@ -61,6 +61,6 @@ languages:
     contentDir: content/en
   fr:
     weight: 2
-    languageName: "Française"
+    languageName: "Français"
     languageCode: "fr"
     contentDir: content/fr

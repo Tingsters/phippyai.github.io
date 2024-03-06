@@ -11,7 +11,7 @@ Ceci est le site Web complément du livre “Une intelligence artificielle pour 
 
 {{< button src="instructions/phippy-ai-workshop.pdf" newtab="true" text="Télécharger les Instructions" >}}
 
-2.Téléchargez le modèle Scratch pour le projet. Vous devrez le charger dans l'éditeur Scratch (c'est également la première étape du PDF que vous venez de télécharger).
+2. Téléchargez le modèle Scratch pour le projet. Vous devrez le charger dans l'éditeur Scratch (c'est également la première étape du PDF que vous venez de télécharger).
 
 {{< button src="templates/phippy-ai-template.sb3" text="Télécharger le modèle" >}}
 
