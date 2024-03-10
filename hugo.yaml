@@ -34,11 +34,12 @@ outputs:
 
 params:
   contact: "frjo@xdeb.org"
-  copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
+  copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
-  feedlinks: true
+  feedlinks: false
+  footer: "Created by [Cassandra Chin](https://www.linkedin.com/in/cassandra-chin-developer/)."
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400
@@ -48,7 +49,7 @@ params:
     - blog
   mobileMenu: true
   mobileMenuOutline: true
-  poweredby: true
+  poweredby: false
   realfavicongenerator: true
   sidebar: false
   submitted: true
