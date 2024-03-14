@@ -9,7 +9,7 @@ Ceci est le site Web complément du livre “Une intelligence artificielle pour 
 
 1. Téléchargez le PDF contenant les instructions détaillées. Vous pouvez l'ouvrir dans un nouvel onglet ou une nouvelle fenêtre afin de l'avoir à portée de main.
 
-{{< button src="instructions/phippy-ai-workshop.pdf" newtab="true" text="Télécharger les Instructions" >}}
+{{< button src="instructions/phippy-ai-workshop-french.pdf" newtab="true" text="Télécharger les Instructions" >}}
 
 2. Téléchargez le modèle Scratch pour le projet. Vous devrez le charger dans l'éditeur Scratch (c'est également la première étape du PDF que vous venez de télécharger).
 
