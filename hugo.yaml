@@ -65,3 +65,8 @@ languages:
     languageName: "Français"
     languageCode: "fr"
     contentDir: content/fr
+  it:
+    weight: 3
+    languageName: "Italiano"
+    languageCode: "it"
+    contentDir: content/it
