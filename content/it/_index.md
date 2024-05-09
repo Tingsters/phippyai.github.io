@@ -11,10 +11,10 @@ Questo è il sito web che accompagna il libro Phippy's AI Friend, storia e labor
 
 {{< button src="instructions/phippy-ai-workshop-italian.pdf" newtab="true" text="Scarica le Istruzioni" >}}
 
-2. Téléchargez le modèle Scratch pour le projet. Vous devrez le charger dans l'éditeur Scratch (c'est également la première étape du PDF que vous venez de télécharger).
+2. Scarica il modello di Scratch per il progetto. È necessario caricarlo nell'editor di Scratch (questo è anche il primo passo nel PDF appena scaricato).
 
 {{< button src="templates/phippy-ai-template.sb3" text="Scarica il Template" >}}
 
-3. Ouvrez l'éditeur Scratch et suivez l'atelier. Une fois l'atelier terminé, vous pourrez aider Kimani à sauver la fête d'anniversaire de Zee!
+3. Apri l'editor di Scratch e segui il workshop. Una volta completato il workshop, potrai aiutare Kimani a salvare la festa di compleanno di Zee!
 
 {{< button src="https://scratch.phippyai.com/" newtab="true" text="Apri Scratch" >}}
