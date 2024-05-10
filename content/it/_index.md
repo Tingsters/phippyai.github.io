@@ -8,8 +8,7 @@ Questo è il sito web che accompagna il libro Phippy's AI Friend, storia e labor
 Traduzioni di libri disponibili:
 [English](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6)
 [Français](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000)
-[Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/)
-(altre traduzioni in arrivo)
+[Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/) (altre traduzioni in arrivo)
 
 ## Istruzioni per il Workshop
 
