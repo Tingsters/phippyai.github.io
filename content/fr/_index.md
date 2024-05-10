@@ -6,7 +6,9 @@ date: 2022-08-03T20:48:20+02:00
 Ceci est le site Web complément du livre “Une intelligence artificielle pour Phippy, Histoire et atelier pour parents et enfants”. Pour suivre cet atelier de programmation, une copie imprimée du livre est recommandée.
 
 Traductions de livres disponibles:
-[English](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6) [Français](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000) [Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/) (plus de traductions à venir)
+[English](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6)
+[Français](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000)
+[Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/) (plus de traductions à venir)
 
 ## Instructions pour l’atelier
 

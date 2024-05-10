@@ -9,7 +9,9 @@ This is the companion website for the book Phippy's AI Friend, Story and Worksho
 In the top right corner, choose your preferred language for the workshop.
 
 Book Translations Available:
-[English](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6) [Français](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000) [Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/) (more translations coming soon)
+[English](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6)
+[Français](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000)
+[Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/) (more translations coming soon)
 
 ## Workshop Instructions
 
