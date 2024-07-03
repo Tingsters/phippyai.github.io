@@ -6,16 +6,16 @@ date: 2022-08-03T20:48:20+02:00
 このウェブサイトは、『フィッピーのAIのおともだち - 親子向けのおはなしとワークショップ』の関連サイトです。ワークショップをすすめるにあたっては、通常の書籍（印刷版）をおすすめします。
 
 
-各国語の翻訳版があります（他言語版も作成中です）。
+各国語の翻訳版があります
 [English](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6)
 [Français](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000)
-[Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/) (altre traduzioni in arrivo)
+[Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/)（他言語版も作成中です）。
 
 ## ワークショップのすすめかた
 
 1.  詳細の手順を記載したPDFファイルをダウンロードしてください。新しいタブかウィンドウで開くと便利です。
 
-{{< button src="instructions/phippy-ai-workshop-italian.pdf" newtab="true" text="手順書のダウンロード" >}}
+{{< button src="instructions/phippy-ai-workshop-japanese.pdf" newtab="true" text="手順書のダウンロード" >}}
 
 2.  プロジェクトのScratchテンプレートをダウンロードします。これをScratchエディタで読み込む必要があります（このステップは、ダウンロードしたPDFの最初のステップにも記載があります）。
 
