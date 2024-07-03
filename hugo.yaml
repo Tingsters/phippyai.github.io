@@ -70,3 +70,8 @@ languages:
     languageName: "Italiano"
     languageCode: "it"
     contentDir: content/it
+  jp:
+    weight: 4
+    languageName: "日本語"
+    languageCode: "jp"
+    contentDir: content/jp
