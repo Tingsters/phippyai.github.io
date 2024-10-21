@@ -75,3 +75,8 @@ languages:
     languageName: "日本語"
     languageCode: "jp"
     contentDir: content/jp
+  gr:
+    weight: 5
+    languageName: "Ελληνικά"
+    languageCode: "gr"
+    contentDir: content/gr
