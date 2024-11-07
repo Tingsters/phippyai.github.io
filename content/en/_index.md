@@ -4,7 +4,7 @@ date: 2022-08-03T20:48:20+02:00
 
 ---
 
-This is the companion website for the book Phippy's AI Friend, Story and Workshop for Kids and Parents. To follow along with the workshop, a print copy of the book is recommended.
+This is the companion website for the book Phippy's AI Friend, Story and Workshop for Kids and Parents. To follow along with the workshop, a print copy of the book is recommended. If you are a teacher or educator you can use this coloring page [here]("instructions/phippy-coloring-pages.pdf").
 
 In the top right corner, choose your preferred language for the workshop.
 
