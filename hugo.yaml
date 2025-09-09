@@ -80,3 +80,8 @@ languages:
     languageName: "Ελληνικά"
     languageCode: "gr"
     contentDir: content/gr
+  pt-BR:
+    weight: 6
+    languageName: "Português (Brasil)"
+    languageCode: "pt-BR"
+    contentDir: content/pt-BR
