@@ -15,18 +15,18 @@ Traduções de livros disponíveis:
 
 Ainda não há versão impressa do livro em português do Brasil, mas você vai encontrar digitalmente aqui:
 
-{{< button src="/pt-BR/book/PhippyBrazilianPortugueseBook.pdf" newtab="true" text="Abrir o Livro" >}}
+{{< button src="/pt-br/book/PhippyBrazilianPortugueseBook.pdf" newtab="true" text="Abrir o Livro" >}}
 
 
 ## Instruções para o Workshop
 
 1. Baixe o PDF que contém as instruções detalhadas. Você deve abrir em uma nova aba ou em uma nova janela para ter em mãos.
 
-{{< button src="/pt-BR/instructions/phippy-ai-workshop.pdf" newtab="true" text="Baixar as Instruções" >}}
+{{< button src="/pt-br/instructions/phippy-ai-workshop.pdf" newtab="true" text="Baixar as Instruções" >}}
 
 2. Baixe o template do Scratch para criar o projeto. Você precisará carregá-lo no editor do Scratch (este é o primeiro passo do PDF que você acabou de baixar).
 
-{{< button src="/pt-BR/templates/phippy-ai-template.sb3" text="Baixar o Template" >}}
+{{< button src="/pt-br/templates/phippy-ai-template.sb3" text="Baixar o Template" >}}
 
 3. Abra o editor do Scratch e siga o workshop. Depois de concluir o workshop, você poderá ajudar Kimani a salvar a festa de aniversário de Zee!
 
