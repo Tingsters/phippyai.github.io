@@ -85,7 +85,7 @@ languages:
     languageName: "Português (Brasil)"
     languageCode: "pt-br"
     contentDir: content/pt-br
-nl:
+  nl:
     weight: 7
     languageName: "Nederlands"
     languageCode: "nl"
