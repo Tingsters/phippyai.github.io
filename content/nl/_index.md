@@ -4,7 +4,7 @@ date: 2022-08-03T20:48:20+02:00
 
 ---
 
-Deze site vormt een aanvulling op het boek “Phippy’s AI vriend”, een verhaal en workshop voor ouders en kinderen. Om de workshop te volgen raden we aan een gedrukte versie van het boek bij de hand te hebben. Ben je docent of begeleider, dan kun je deze pagina gebruiken om [hier](instructions/phippy-coloring-pages.pdf) de kleurplaten te vinden. 
+Deze site vormt een aanvulling op het boek “Phippy’s AI vriend”, een verhaal en workshop voor ouders en kinderen. Om de workshop te volgen raden we aan een gedrukte versie van het boek bij de hand te hebben. Ben je docent of begeleider, dan kun je deze pagina gebruiken om [hier](coloring-pages/phippy-coloring-pages-dutch.pdf) de kleurplaten te vinden. 
  
 Kies in de rechterbovenhoek de gewenste taal voor de workshop. 
 
