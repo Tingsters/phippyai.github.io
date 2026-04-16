@@ -11,6 +11,7 @@ date: 2022-08-03T20:48:20+02:00
 [English](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6)
 [Français](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000)
 [Italiano](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/)
+[Nederland](https://www.amazon.nl/-/en/dp/1963994051)
 （他言語版も作成中です）。
 
 ## ワークショップのすすめかた

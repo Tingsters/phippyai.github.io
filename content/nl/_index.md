@@ -9,6 +9,7 @@ Deze site vormt een aanvulling op het boek “Phippy’s AI vriend”, een verha
 Kies in de rechterbovenhoek de gewenste taal voor de workshop. 
 
 Beschikbare vertalingen van het boek:
+[Nederland](https://www.amazon.nl/-/en/dp/1963994051)
 [Engels](https://www.amazon.com/Phippys-AI-Friend-Workshop-Parents/dp/B0CWYF8JT6)
 [Frans](https://www.amazon.fr/Une-Intelligence-Artificielle-pour-Phippy/dp/1963994000)
 [Italiaans](https://www.amazon.it/Lamic%C9%99-IA-Phippy-Workshop-genitor%C9%99/dp/1963994027/)
